@@ -67,4 +67,4 @@ manage.py
 
 #database
 
-sqlite3.db
+db.sqlite3
